@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="com.testNG.TestNGAnnotations" />
+			<class name="com.testNG.TestAlerts" />
+			<class name="com.testNG.TestAlerts1" />
+			<class name="com.testNG.TestFrames" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
