@@ -21,7 +21,7 @@ public class HashMapPractice {
 		
 		for(char c : ch)
 		{
-			
+			//lklkl
 			if(hm.containsKey(c))
 			 {
 				int val = hm.get(c);
